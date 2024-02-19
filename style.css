@@ -1,0 +1,20 @@
+body{
+    color: white;
+    background-color: black !important;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card{
+    background-color: #036264 !important;
+    color: white;
+}
+
+form{
+    padding: 5px;
+}
